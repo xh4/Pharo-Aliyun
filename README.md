@@ -1,0 +1,1 @@
+## Installation```stMetacello new	repository: '';	baseline: 'PharoAliyun';	load```
